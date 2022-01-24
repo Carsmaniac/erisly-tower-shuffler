@@ -1,0 +1,6 @@
+Number of floors to populate:
+2
+
+Employees - firstname lastname rarity(C/U/R/L) currentfloor:
+Guy Day C 1
+Kelly Wilson R 2
